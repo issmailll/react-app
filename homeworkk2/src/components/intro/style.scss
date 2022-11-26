@@ -1,3 +1,14 @@
-.intro{
+.intro {
+    padding: 20px 0;
     background-color: rgb(99, 187, 132);
+}
+.intro__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.card__img{
+    min-height: 126px;
+    max-width: 128px;
 }

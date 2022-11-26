@@ -3,11 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-main{
-    min-height: calc(100vh - 81px - 81px);
-}
 .container{
     max-width: 1250px !important;
     border: 1px solid black !important;
     padding: 0 15px !important;
+    margin: 0 auto !important;
 }
